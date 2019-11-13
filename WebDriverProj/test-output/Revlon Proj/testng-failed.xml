@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Revlon Proj]">
+  <test name="Module1(failed)">
+    <classes>
+      <class name="testngg.Junit_App">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="f"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- testngg.Junit_App -->
+      <class name="testngg.Junit_App1">
+        <methods>
+          <include name="beforeMethod"/>
+          <include name="f"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- testngg.Junit_App1 -->
+    </classes>
+  </test> <!-- Module1(failed) -->
+</suite> <!-- Failed suite [Revlon Proj] -->

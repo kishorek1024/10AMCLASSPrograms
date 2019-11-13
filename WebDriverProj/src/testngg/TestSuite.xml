@@ -1,0 +1,8 @@
+<suite name="Revlon Proj">
+  <test name="Module1">
+    <classes>
+      <class name="testngg.Junit_App"/>
+      <class name="testngg.Junit_App1"/>
+    </classes>
+  </test> 
+</suite> 
